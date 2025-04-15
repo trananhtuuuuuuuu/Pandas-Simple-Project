@@ -1,0 +1,201 @@
+Date,Product,Quantity,Price,City
+2025-01-01,Laptop,2,100,Los Angeles
+2025-01-01,Mouse,1,800,Chicago
+2025-01-01,Smartphone,2,1000,San Francisco
+2025-01-01,Headphones,4,300,San Diego
+2025-01-01,Mouse,4,200,San Francisco
+2025-01-01,Monitor,4,800,Los Angeles
+2025-01-01,Mouse,4,1000,San Diego
+2025-01-02,Laptop,1,500,New York
+2025-01-02,Smartphone,2,500,San Diego
+2025-01-02,Monitor,3,800,San Diego
+2025-01-02,Headphones,3,800,San Diego
+2025-01-02,Tablet,1,500,San Francisco
+2025-01-02,Mouse,3,500,New York
+2025-01-03,Headphones,3,800,San Diego
+2025-01-03,Monitor,2,200,Los Angeles
+2025-01-03,Laptop,3,300,Los Angeles
+2025-01-03,Laptop,2,100,San Francisco
+2025-01-03,Laptop,1,500,Los Angeles
+2025-01-03,Monitor,4,300,Los Angeles
+2025-01-03,Smartphone,2,200,San Francisco
+2025-01-03,Smartphone,4,1000,Chicago
+2025-01-03,Laptop,2,500,Chicago
+2025-01-04,Monitor,4,500,Chicago
+2025-01-04,Mouse,1,500,San Diego
+2025-01-04,Monitor,3,100,Chicago
+2025-01-04,Keyboard,1,1000,San Diego
+2025-01-04,Headphones,1,100,Los Angeles
+2025-01-04,Mouse,2,300,San Francisco
+2025-01-05,Headphones,3,200,San Francisco
+2025-01-05,Smartphone,2,800,Chicago
+2025-01-05,Headphones,1,500,Los Angeles
+2025-01-05,Headphones,2,200,Chicago
+2025-01-05,Smartphone,1,800,San Francisco
+2025-01-06,Monitor,4,200,San Diego
+2025-01-06,Keyboard,4,800,San Diego
+2025-01-07,Mouse,4,300,San Diego
+2025-01-07,Mouse,4,800,Los Angeles
+2025-01-07,Monitor,2,500,New York
+2025-01-07,Laptop,2,200,San Francisco
+2025-01-07,Laptop,1,800,San Diego
+2025-01-07,Monitor,4,100,Los Angeles
+2025-01-07,Headphones,4,1000,Chicago
+2025-01-07,Monitor,3,800,San Francisco
+2025-01-07,Tablet,2,500,Chicago
+2025-01-07,Laptop,1,100,San Diego
+2025-01-08,Keyboard,4,800,San Francisco
+2025-01-08,Mouse,1,800,Los Angeles
+2025-01-08,Monitor,2,800,Chicago
+2025-01-08,Tablet,3,300,New York
+2025-01-08,Tablet,1,200,San Diego
+2025-01-08,Smartphone,4,100,Chicago
+2025-01-08,Tablet,2,1000,San Diego
+2025-01-08,Laptop,1,300,New York
+2025-01-08,Smartphone,3,200,Los Angeles
+2025-01-08,Laptop,3,800,San Francisco
+2025-01-09,Monitor,2,500,Chicago
+2025-01-09,Laptop,2,500,San Diego
+2025-01-09,Laptop,3,100,Los Angeles
+2025-01-09,Headphones,1,300,Chicago
+2025-01-09,Laptop,1,100,Chicago
+2025-01-09,Tablet,2,200,Los Angeles
+2025-01-09,Keyboard,1,200,New York
+2025-01-10,Smartphone,1,800,New York
+2025-01-10,Mouse,4,200,New York
+2025-01-10,Laptop,3,200,New York
+2025-01-10,Laptop,3,100,San Francisco
+2025-01-10,Keyboard,2,500,San Diego
+2025-01-11,Tablet,3,100,New York
+2025-01-11,Keyboard,4,1000,San Diego
+2025-01-11,Keyboard,2,800,San Francisco
+2025-01-11,Headphones,4,800,Los Angeles
+2025-01-12,Headphones,3,300,San Diego
+2025-01-12,Mouse,4,500,Los Angeles
+2025-01-12,Monitor,4,1000,San Francisco
+2025-01-12,Laptop,3,300,New York
+2025-01-12,Laptop,4,100,New York
+2025-01-12,Monitor,3,100,San Diego
+2025-01-12,Headphones,3,300,San Diego
+2025-01-12,Tablet,2,500,New York
+2025-01-12,Mouse,1,1000,San Francisco
+2025-01-13,Monitor,3,100,New York
+2025-01-13,Tablet,2,1000,Los Angeles
+2025-01-13,Monitor,2,300,Los Angeles
+2025-01-13,Smartphone,2,800,San Francisco
+2025-01-14,Smartphone,1,300,New York
+2025-01-14,Laptop,4,100,San Diego
+2025-01-14,Keyboard,4,800,San Francisco
+2025-01-14,Laptop,2,100,New York
+2025-01-14,Keyboard,1,200,New York
+2025-01-14,Mouse,2,200,San Francisco
+2025-01-15,Monitor,4,800,New York
+2025-01-15,Headphones,2,200,Los Angeles
+2025-01-15,Headphones,4,500,San Francisco
+2025-01-15,Laptop,2,300,San Francisco
+2025-01-15,Smartphone,3,800,Los Angeles
+2025-01-15,Keyboard,4,800,San Diego
+2025-01-15,Laptop,1,100,San Francisco
+2025-01-15,Tablet,1,500,San Francisco
+2025-01-15,Monitor,2,100,San Francisco
+2025-01-15,Monitor,2,100,Los Angeles
+2025-01-15,Mouse,3,800,San Francisco
+2025-01-16,Monitor,3,300,San Diego
+2025-01-16,Headphones,4,300,Chicago
+2025-01-16,Laptop,1,100,San Francisco
+2025-01-16,Mouse,1,300,San Diego
+2025-01-17,Monitor,1,500,San Francisco
+2025-01-17,Monitor,4,500,San Diego
+2025-01-17,Tablet,1,500,Chicago
+2025-01-17,Tablet,2,200,San Diego
+2025-01-18,Laptop,4,200,New York
+2025-01-18,Headphones,4,1000,New York
+2025-01-18,Smartphone,3,200,New York
+2025-01-18,Laptop,3,800,New York
+2025-01-18,Headphones,2,800,New York
+2025-01-19,Keyboard,3,300,Chicago
+2025-01-19,Tablet,1,300,San Francisco
+2025-01-19,Mouse,3,500,Chicago
+2025-01-19,Headphones,2,500,Chicago
+2025-01-19,Smartphone,1,100,Chicago
+2025-01-20,Headphones,4,1000,San Diego
+2025-01-20,Keyboard,3,800,Los Angeles
+2025-01-20,Mouse,1,500,Chicago
+2025-01-21,Keyboard,2,300,Los Angeles
+2025-01-21,Tablet,4,800,Chicago
+2025-01-21,Tablet,3,800,Chicago
+2025-01-21,Headphones,2,100,San Diego
+2025-01-21,Monitor,3,100,San Diego
+2025-01-21,Headphones,3,100,New York
+2025-01-21,Mouse,4,1000,New York
+2025-01-21,Headphones,2,1000,San Francisco
+2025-01-22,Smartphone,1,200,San Diego
+2025-01-22,Monitor,3,200,Los Angeles
+2025-01-22,Tablet,3,800,San Francisco
+2025-01-22,Keyboard,3,1000,New York
+2025-01-22,Monitor,4,1000,San Diego
+2025-01-23,Monitor,4,200,Los Angeles
+2025-01-23,Laptop,4,500,Los Angeles
+2025-01-23,Mouse,3,1000,San Francisco
+2025-01-23,Mouse,1,500,New York
+2025-01-23,Monitor,2,800,Chicago
+2025-01-23,Laptop,4,1000,San Diego
+2025-01-24,Mouse,2,200,San Diego
+2025-01-24,Monitor,4,200,New York
+2025-01-24,Laptop,4,500,San Diego
+2025-01-24,Smartphone,4,1000,San Diego
+2025-01-24,Keyboard,1,800,San Diego
+2025-01-24,Headphones,3,800,New York
+2025-01-24,Smartphone,1,100,New York
+2025-01-25,Headphones,4,500,Los Angeles
+2025-01-25,Laptop,2,800,San Francisco
+2025-01-25,Tablet,3,100,New York
+2025-01-25,Headphones,2,300,Chicago
+2025-01-25,Laptop,2,300,San Francisco
+2025-01-25,Keyboard,4,200,Chicago
+2025-01-26,Mouse,3,800,San Francisco
+2025-01-26,Monitor,2,800,Chicago
+2025-01-26,Mouse,3,800,San Diego
+2025-01-26,Headphones,4,800,Chicago
+2025-01-26,Headphones,3,500,Chicago
+2025-01-26,Headphones,1,200,Los Angeles
+2025-01-26,Smartphone,3,800,New York
+2025-01-26,Monitor,2,300,San Diego
+2025-01-26,Headphones,1,800,Los Angeles
+2025-01-27,Monitor,1,1000,Los Angeles
+2025-01-27,Mouse,3,1000,Los Angeles
+2025-01-27,Mouse,2,200,New York
+2025-01-27,Laptop,1,500,Los Angeles
+2025-01-27,Laptop,4,500,Los Angeles
+2025-01-28,Monitor,3,800,Los Angeles
+2025-01-28,Laptop,2,200,San Francisco
+2025-01-28,Laptop,3,300,Los Angeles
+2025-01-28,Monitor,2,800,San Diego
+2025-01-28,Headphones,2,1000,New York
+2025-01-28,Monitor,4,500,San Diego
+2025-01-28,Monitor,4,500,San Diego
+2025-01-28,Keyboard,4,200,New York
+2025-01-28,Tablet,1,300,Chicago
+2025-01-28,Mouse,1,200,San Diego
+2025-01-28,Headphones,4,300,New York
+2025-01-28,Mouse,1,100,New York
+2025-01-29,Laptop,2,100,New York
+2025-01-29,Laptop,2,500,Los Angeles
+2025-01-29,Tablet,4,200,Chicago
+2025-01-29,Monitor,2,500,New York
+2025-01-29,Monitor,2,100,Los Angeles
+2025-01-29,Tablet,2,800,San Diego
+2025-01-30,Keyboard,2,800,San Diego
+2025-01-30,Monitor,1,200,Chicago
+2025-01-30,Laptop,2,100,Los Angeles
+2025-01-30,Keyboard,1,800,San Francisco
+2025-01-30,Laptop,1,500,Chicago
+2025-01-30,Smartphone,2,200,San Francisco
+2025-01-30,Mouse,2,100,Los Angeles
+2025-01-30,Tablet,1,100,Chicago
+2025-01-31,Laptop,2,200,New York
+2025-01-31,Mouse,4,100,San Diego
+2025-01-31,Smartphone,3,800,San Diego
+2025-01-31,Tablet,3,100,San Diego
+2025-01-31,Laptop,4,300,Los Angeles
+2025-01-31,Headphones,1,300,San Francisco
